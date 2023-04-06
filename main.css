@@ -1,13 +1,16 @@
 
 /* css grid for portfolio (hopefully) */
 
-.container {  display: grid;
+.container {  
+    display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
     gap: 3% 3%;
     grid-auto-flow: row;
     grid-template-areas:
-      ". . ."
-      ". . ."
-      ". . .";
+      "a b c"
+      "d e f"
+      "g h i";
   }
+
+
