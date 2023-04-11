@@ -24,6 +24,16 @@ body{
   background-color: salmon;
 }
 
+.button{
+  border: 1px solid aqua;
+  background-color: red;
+  height: 45px;
+  width: 40%;
+  text-align: center;
+  text-justify: center;
+
+}
+
 
 #mydiv {
   position: absolute;
