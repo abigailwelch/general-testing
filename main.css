@@ -20,6 +20,10 @@
     scale: 40%;
 } */
 
+body{
+  background-color: salmon;
+}
+
 
 #mydiv {
   position: absolute;
@@ -42,11 +46,11 @@
   width: 76px;
 }
 
-svg{
+/* svg{
   scale: 100%;
   align-items: center;
   justify-items:center;
-}
+} */
 
 .bleeba{
   scale: 100%;
