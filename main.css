@@ -24,21 +24,26 @@ body{
   background-color: #FFD1D8;
 }
 
-svg{
-  /* border: 5px solid black; */
-}
+/* svg{
+  border: 5px solid black;
+  justify-items: center;
+} */
 
 .a-btn{
   /* scale:.2; */
-  /* border: 1px solid red; */
+  border: 1px solid red;
   width: 70px;
-  margin: 0;
-  padding: 0;
+  object-position: 50px ;
+
+  /* align-items: center; */
+  /* margin: 20%; */
+  /* padding: 20%; */
 
 }
 
 .a-btn :hover{
-  fill:aqua;
+  fill: cornflowerblue;
+  
 }
 
 
